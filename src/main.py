@@ -4,6 +4,10 @@ def main():
     plus(1, 5)
     mezera()
     condition(5)
+    mezera()
+    forloop()
+    mezera()
+    whileloop()
 
 def say(text):
     print(text)
@@ -18,6 +22,17 @@ def condition(x):
         print(x + " is less than 4")
     else:
         print(x + " is equal to 4")
+
+def forloop():
+    for i in range(5):
+        print(i)
+
+def whileloop():
+    x = 10
+    while x > 1:
+        print(x)
+        x = x - 1
+
 
 def mezera():
     print("--------------")
