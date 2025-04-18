@@ -19,7 +19,7 @@ The project contains the following examples:
 3. **Conditions (`condition`)**  
    Use of `if & elif & else` to check variable values.
 
-4. **Loops (`for`, `while`, `for`)**
+4. **Loops (`for`, `while`)**
    - `while` loop for conditional iteration.
    - `for` loop for iterating over a range.
 
