@@ -8,6 +8,7 @@ def main():
     forloop()
     mezera()
     whileloop()
+    mezera()
 
 def say(text):
     print(text)
@@ -17,11 +18,11 @@ def plus(x, y):
 
 def condition(x):
     if x > 4:
-        print(x + " is greater than 4")
+        print(f"{x} is greater than 4")
     elif x < 4:
-        print(x + " is less than 4")
+        print(f"{x} is less than 4")
     else:
-        print(x + " is equal to 4")
+        print(f"{x} is equal to 4")
 
 def forloop():
     for i in range(5):
