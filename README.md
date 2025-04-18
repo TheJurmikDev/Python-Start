@@ -1,6 +1,6 @@
 ## 🚀 About the Project
 
-**Python Learning Project** is a basic example program written in the Python programming language that demonstrates key concepts of this language. The project includes several functions that illustrate the use of variables, conditions, loops and other essential elements of Python.
+**Python Learning Project** is a basic example program written in Python that show how this language work. The project includes some functions that show the use of variables, conditions, loops and other things of Python.
 
 This project is ideal for beginners who want to learn the basics of Python through practical examples.
 
@@ -11,17 +11,17 @@ This project is ideal for beginners who want to learn the basics of Python throu
 The project contains the following examples:
 
 1. **Basic Output (`hello`)**  
-   Demonstration of simple text output using `print`.
+   Simple text output using `print`.
 
 2. **Arithmetic (`math`)**  
-   Example of basic arithmetic operations with functions.
+   Example of basic operations with functions.
 
 3. **Conditions (`condition`)**  
    Use of `if & elif & else` to check variable values.
 
 4. **Loops (`for`, `while`)**
-   - `while` loop for conditional iteration.
-   - `for` loop for iterating over a range.
+   - `while` loop for conditional repeating.
+   - `for` loop for repeating over a range.
 
 ---
 
