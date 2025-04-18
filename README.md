@@ -17,7 +17,7 @@ The project contains the following examples:
    Example of basic arithmetic operations with functions.
 
 3. **Conditions (`condition`)**  
-   Use of `if-else` to check variable values.
+   Use of `if & elif & else` to check variable values.
 
 4. **Loops (`counter`, `whileloop`, `forloop`)**  
    - Infinite loop with `break`.
